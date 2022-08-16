@@ -5,4 +5,4 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Daniell&show_icons=true&theme=dracula)
 
-![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Carlos-Daniell/Carlos-Daniell/blob/output/github-contribution-grid-snake.svg)
