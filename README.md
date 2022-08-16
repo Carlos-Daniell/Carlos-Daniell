@@ -4,3 +4,5 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/qr/HEDTVXAKE2Z3B1?autoload=1&app_absent=0)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Daniell&show_icons=true&theme=dracula)
+
+![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
