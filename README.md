@@ -6,3 +6,6 @@
 https://github-readme-stats.vercel.app/api?username=Carlos-Daniell&show_icons=true&theme=dracula
 
 ![Snake animation](https://github.com/Carlos-Daniell/Carlos-Daniell/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
