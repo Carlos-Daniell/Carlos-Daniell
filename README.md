@@ -4,10 +4,23 @@
     <summary><h1 style="display: inline-block">Hello World !</h1></summary>
 </div>
 
+# Eu Sou Carlos Daniel!
+  
+  Meu nome é Carlos Daniel sou Analista de Desenvolvimento, tenho 23 anos, tenho Inglês nível básico, atuo profissionalmente deste 2023.
+
+- **🎓 Formação:** Bacharel em Sistemas de Informação.
+- **💼 Cargo atual:** Analista de Desenvolvimento na Back Consultoria e Serviços LTDA .
+- **🔭 Atualmente estou trabalhando com:** C#, .NET CORE, .NET MAUI, SQL Server, Cloud com AWS.
+- **🌱Estudos:** Aprofundando meus conhecimentos em C#, .NET CORE, Clean Architecture, MVVM.
+- **👨‍💻 Tecnologia que já trabalhei:** Protheus ADVPL, React, Flutter, GitHub, TortoiseSVN.
+- **📌Localidade:** Sou de Balsas - MA 
+- **👨‍💻 #DevPorPaixao**
+
+ ##
 
 <!-- Apresentação -->
 <p>
-  Hi 👋, I'm Carlos! A Brazilian passionate about technology and programming.</br></br>
+  A Brazilian passionate about technology and programming.</br></br>
 </p>
 
 
