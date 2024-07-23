@@ -26,14 +26,11 @@
 
 <!-- Redes Sociais -->
 <div align="left">
-  <a href="https://www.linkedin.com/in/carlos-silva-0113241b2/">
+  <a href="https://www.linkedin.com/in/carlos-daniel-dos-santos-silva-0113241b2/">
   <img  height="30" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
   <a href="mailto:carlos.oficial.ti@gmail.com">
   <img  height="30" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-<a href="https://www.instagram.com/carllos_dd/">
-  <img  height="30" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
   <a href="https://api.whatsapp.com/send?phone=5599985233562">
   <img  height="30" src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
